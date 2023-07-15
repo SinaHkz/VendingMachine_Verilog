@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Vending_machine -o "C:/Users/Sina HZ/Vending_machine/Owner_charge.tfi" -lib work "C:/Users/Sina HZ/Vending_machine//Owner_charge.v" -module Owner_charge -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

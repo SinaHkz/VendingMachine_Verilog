@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj Vending_machine -o "C:/Users/Sina HZ/Vending_machine/Customer.tfi" -lib work "C:/Users/Sina HZ/Vending_machine//Customer.v" -module Customer -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj Vending_machine -o "C:/Users/Sina HZ/Vending_machine/Customer.tfi" -lib work "C:/Users/Sina HZ/Vending_machine//Customer.v" -module Customer -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

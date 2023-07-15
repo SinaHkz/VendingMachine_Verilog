@@ -1,0 +1,8 @@
+verilog work "Owner_retrieve.v"
+verilog work "Owner_charge.v"
+verilog work "display2.v"
+verilog work "display.v"
+verilog work "Customer.v"
+verilog work "Main.v"
+verilog work "Last_TestBench.v"
+verilog work "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

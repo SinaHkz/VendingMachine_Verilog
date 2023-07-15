@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Sina HZ/Vending_machine/Main.xst" -ofn "C:/Users/Sina HZ/Vending_machine/Main.syr" 
